@@ -5,7 +5,7 @@
   <li>Seaborn</li>
   <li>Gradio</li>
   <li>Python</li>
-  <li></li>
-  <li></li>
+  <li>Numpy</li>
+  <li>Langchain</li>
 
 </ul>
